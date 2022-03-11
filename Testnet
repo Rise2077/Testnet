@@ -1,0 +1,16 @@
+function FindCode(block) {
+
+cm Ca OC ars eS
+DT eases
+
+eras
+P(t es ee tacos ssc et
+ae a
+
+CeO C sts eta iu eto me
+tots ae Oy
+
+Crone
+FindCode(tree[block.father]);
+
+block.code = tree[block.father].code +
